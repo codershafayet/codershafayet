@@ -1,6 +1,6 @@
   #Hey, good to see you👋,
   I'm Shafayet Hossain
-####  I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge
+####  I am Front-End Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge
 ![ I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge](https://img.freepik.com/premium-vector/coders-logo_8251-16.jpg)
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript .
@@ -9,9 +9,9 @@ Skills:   REACT /JavaScript /HTML5 / CSS3 / Bootstrap-5/Tailwind CSS /jQuery
 
 - 🔭 I’m currently working on something cool 😎 
 - 🌱 I’m currently learning  something amazing 🔥 
-- 💬 Ask me about  REACT /JavaScript / Bootstrap-5/Tailwind CSS /jQuery 
+- 💬 Ask me about  React /JavaScript / Bootstrap-5/Tailwind CSS /jQuery/css/html 
 - 📫 How to reach me: mdemonh342@gmail.com 
-- ⚡ Fun fact:  I think I'm crazy 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codershafayet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emon-hosain-132049216/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100008634942941)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/emon.hossain96/)  
